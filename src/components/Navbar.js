@@ -6,7 +6,7 @@ const Navbar = () => {
   const navigate = useNavigate();
 
   return (
-    <div className="header">
+    <nav className="header">
       {
         window.location.pathname === '/'
           ? (
@@ -24,7 +24,7 @@ const Navbar = () => {
         <span><BsMicFill /></span>
         <span><BsFillGearFill /></span>
       </div>
-    </div>
+    </nav>
   );
 };
 
