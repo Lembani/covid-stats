@@ -71,14 +71,14 @@ h1 {
   padding-right: 10px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .list-country a:nth-child(4n),
 .list-country a:nth-child(4n + 1) {
   background-color: #ec4e8a;
   color: #fff;
-}
-
-a {
-  text-decoration: none;
 }
 
 .list-details {
