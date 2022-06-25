@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# COVID Stats
+# COVID Statistics
 
 > A responsive web app that displays COVID-19 statistics from different countries.
 
