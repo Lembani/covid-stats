@@ -17,8 +17,8 @@
 
 ## Live Demo Link
 
-The website is deployed using Github Pages.
-Click the [Link to Live Demo]()
+The website is deployed using Netlify.
+Click the [Link to Live Demo](https://covid-stat-euro.netlify.app/)
 
 ## Prerequisites
 
