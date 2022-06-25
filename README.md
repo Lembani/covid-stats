@@ -2,7 +2,12 @@
 
 # COVID Stats
 
-> A web app that displays COVID-19 statistics from different countries.
+> A responsive web app that displays COVID-19 statistics from different countries.
+
+
+<img src="https://user-images.githubusercontent.com/30483991/175783335-b6b4a702-fa25-4605-b47e-acbbe98c45b0.png" width="800px" height="500px" />
+
+<img src="https://user-images.githubusercontent.com/30483991/175783342-e2a6b4b4-5e86-4b86-b6d2-e8330724af02.png" width="400px" height="700px" />
 
 ## Built With
 
